@@ -20,7 +20,3 @@ void app_main(void) {
 
 
 //this comment 2
-
-
-
-//this comment 3
